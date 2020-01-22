@@ -551,4 +551,7 @@ public class CameraView extends CameraViewLayout {
         mEventDispatcher.addBinding(object);
     }
 
+    public void testMethod() {
+    }
+
 }
