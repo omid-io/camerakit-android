@@ -554,4 +554,7 @@ public class CameraView extends CameraViewLayout {
     public void testMethod() {
     }
 
+    public void testMethod2() {
+    }
+
 }
